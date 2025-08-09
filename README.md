@@ -1,3 +1,3 @@
 # PT-LM4JIT-SDP
 
-Source code for the experiments described in the paper "Pre-trained Code Language Models for Just-in-time Software Defect Prediction: An Empirical Study".
+Source code for the experiments described in the paper "Offline and Continual Just-in-Time Software Defect Prediction with Pre-trained Language Models".
